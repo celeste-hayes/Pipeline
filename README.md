@@ -14,10 +14,10 @@ This project showcases a CI/CD pipeline using GitHub Actions to enhance code qua
 * [Contact Information](#contact-information)
 
 ## Features
+- **Deployed Application:** The deploed application is set up to use Render and MongoDB. 
 - **Automated Testing:** Every Pull Request to develop triggers Cypress component tests, ensuring code changes are stable before merging.
 - **Seamless Deployment:** Once code is merged from develop to main, the application is automatically deployed to Render.
 - **Improved Workflow:** Enforces best practices, reducing manual intervention and improving release confidence.
-- Deployed Application: The deploed application is set up to use Render and MongoDB
 
 ## Installation
 1. Fork the repo to your local machine
